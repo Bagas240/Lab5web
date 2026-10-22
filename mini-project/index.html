@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Praktikum JavaScript</title>
+</head>
+<body>
+  <h1>Pengenalan JavaScript</h1>
+  <p id="pesan">Konten awal.</p>
+  <h2>Kalkulator Nilai Mahasiswa</h2>
+<label for="tugas">Nilai Tugas:</label>
+<input type="number" id="tugas" min="0" max="100" value="85"><br>
+<label for="uts">Nilai UTS:</label>
+<input type="number" id="uts" min="0" max="100" value="78"><br>
+<label for="uas">Nilai UAS:</label>
+<input type="number" id="uas" min="0" max="100" value="88"><br>
+<button type="button" onclick="prosesNilai()">Hitung Nilai</button>
+<p id="hasilNilai"></p>
+
+  <script src="script.js"></script>
+</body>
+</html>
