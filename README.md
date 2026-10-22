@@ -1,10 +1,12 @@
 # Praktikum 5: JavaScript 
+
+## Identitas Praktikum
 Nama : Bagas Arya Ramadhan 
 Nim : 312510328
 Kelas : I251D
 Fakultas : Teknik
 Jurusan : Informatika
-## Identitas Praktikum
+
 
 ## Latihan 1 Menampilkan Output
 
